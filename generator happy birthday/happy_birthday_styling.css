@@ -1,0 +1,22 @@
+
+
+body {
+
+
+    margin: 10px white ;
+    border: 2px solid blue;
+    padding: 50px;
+    font-family:'Times New Roman', Times, serif;
+    background: linear-gradient(to bottom, #00ff99 0%, #ff99cc 100%);
+    
+    }
+    
+section {
+
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+
+}
+
